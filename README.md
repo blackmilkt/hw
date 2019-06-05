@@ -1,5 +1,5 @@
-# hw
+# HW
 Study, Homework, Minor things...
 
-* These are not correct answers.
-* Any suggestion is welcome.
+* These are not the best answers.
+* Every suggestion is welcome.
